@@ -10,6 +10,7 @@
   "license": "ISC",
   "dependencies": {
     "mongoose": "^5.0.10",
+    "nodemon": "^1.17.2",
     "restify": "^6.3.4",
     "restify-mongoose": "^3.0.0"
   }
